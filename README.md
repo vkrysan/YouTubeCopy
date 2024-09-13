@@ -1,1 +1,1 @@
-YouTube Clone Application
+Video Application
